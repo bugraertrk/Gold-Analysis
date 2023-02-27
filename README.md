@@ -6,8 +6,6 @@
 
 #Geçmiş Altın ETF (GLD) fiyatlarından bilgi alan ve ertesi gün bir Altın fiyat tahmini döndüren bir makine öğrenimi doğrusal regresyon modeli oluşturacağız.
 
-#GLD, doğrudan fiziksel altına yatırım yapan en büyük ETF'dir. ( Kaynak )
-
 #Python'da makine öğrenimini kullanarak altın fiyatlarını tahmin etme yolculuğumuzda aşağıdaki konuları ele alacağız .
 
 #Kitaplıkları içe aktarın ve Gold ETF verilerini okuyun
